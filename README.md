@@ -1,6 +1,7 @@
 # 🚀 Automatización de Carga masiva para SUNEDU con Python
 
-Este proyecto es una herramienta de software que **automatiza por completo** la preparación de los informes de estudiantes que la universidad debe presentar a la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) en Perú.
+Este proyecto automatiza la **limpieza, validación y estandarización de datos institucionales** para su envío masivo a **SUNEDU**, evitando la carga manual registro por registro.  
+El proceso transforma los datos provenientes del sistema académico en archivos listos para carga, conforme a las **plantillas oficiales** de SUNEDU para **Postulantes, Matriculados y Egresados**.
 
 ---
 
@@ -39,7 +40,10 @@ Esta herramienta transformó por completo el proceso:
 
 ---
 
-### 🛠️ Tecnologías Utilizadas
+## ⚙️ Tecnologías utilizadas
 
-* **Lenguaje:** Python
-* **Librerías Principales:** Pandas, NumPy
+- 🐍 **Python 3.x**  
+- 📊 **pandas**  
+- 📗 **openpyxl**  
+- 🧮 **numpy**  
+- 🧰 **re** (expresiones regulares)
