@@ -1,4 +1,4 @@
-# 🚀 Automatización de Reportes para SUNEDU con Python
+# 🚀 Automatización de Carga masiva para SUNEDU con Python
 
 Este proyecto es una herramienta de software que **automatiza por completo** la preparación de los informes de estudiantes que la universidad debe presentar a la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) en Perú.
 
@@ -10,7 +10,7 @@ Antes, preparar estos informes era un proceso **manual, repetitivo y muy lento**
 
 * **Convertir texto a códigos:** Cambiar manualmente "DNI" por el código `1`, "Maestría en Educación" por `230`, o "Perú" por `9233`.
 * **Corregir errores:** Arreglar uno por uno los números de DNI mal escritos, las fechas en formato incorrecto o los datos que faltaban.
-* **Aplicar reglas complicadas:** Asegurarse de que cada tipo de estudiante (de maestría, doctorado, etc.) cumpliera con reglas específicas para no ser rechazado.
+* **Aplicar reglas complicadas:** Asegurarse de que cada tipo de estudiante (de segunda especialidad, maestría y doctorado) cumpliera con reglas específicas para no ser rechazado.
 
 Este trabajo tomaba **horas**, era muy propenso a errores y causaba que los informes fueran rechazados, obligando a empezar todo de nuevo.
 
