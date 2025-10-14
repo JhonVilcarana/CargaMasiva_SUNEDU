@@ -42,8 +42,6 @@ Esta herramienta transformó por completo el proceso:
 
 ## ⚙️ Tecnologías utilizadas
 
-- 🐍 **Python 3.x**  
+- 🐍 **Python**  
 - 📊 **pandas**  
-- 📗 **openpyxl**  
 - 🧮 **numpy**  
-- 🧰 **re** (expresiones regulares)
